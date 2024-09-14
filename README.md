@@ -14,7 +14,8 @@ Follow the steps below to add a new token：
       "homepage": "https://winklink.org/",
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
-          {
+          
+https//tronscan.org/#/token20/
               "source": "Binance",
               "pairs": [
                   "WIN/USDT",
